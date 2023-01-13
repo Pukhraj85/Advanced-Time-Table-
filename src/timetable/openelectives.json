@@ -1,0 +1,61 @@
+[
+  {
+    "subjectName": "Graph Theroy",
+    "subjectCode": "18MBO401T",
+    "subjectSlot": "G",
+    "teacher": "Mr.Ayush Gauttam",
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=HipVU5vz3Q8&list=PLU6SqdYcYsfLV24T0XVb3z3mjl8QG0EBN",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Parallel Algorithms",
+    "subjectCode": "18MBO406T",
+    "subjectSlot": "G",
+    "teacher": "Ms.Shailesh Chandel",
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=FA2Vv9CMiZI&list=PLwdnzlV3ogoVNbSQcn56GVXMqgnOab61R",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Power Electronics",
+    "subjectCode": "18DCO301J",
+    "subjectSlot": "G",
+    "teacher": "Dr.Atul Choudhary",
+    "category": "Open Elective",
+    "type": "https://www.youtube.com/watch?v=jw3ji4WpMm8&list=PLs5_Rtf2P2r5KREX_ijxw2Sz-ISNhAgH4",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Machine Learning",
+    "subjectCode": "18BTO105T",
+    "subjectSlot": "G",
+    "teacher": "Ms.Ishika Swankar",
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=Y4qO9unerGs&list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Speech Processing",
+    "subjectCode": "18CHO104T",
+    "subjectSlot": "G",
+    "teacher": "Dr.Vishal Verma",
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=EMmckCO9QhA&list=PLvv3PyiCcNrFuT7CEIvIr4a4g4orascx3",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "IC Fabrication",
+    "subjectCode": "18MEO104T",
+    "subjectSlot": "G",
+    "teacher": "Mr.Meghanshu Biswas",
+    "category": "Open Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=M-vbz7Ki3Xs&list=PL6Hn_dJKTVOlOYT8PAHuytTgPjvYKAAs6",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "subjectName": "Biomedical Instrumentation",
+    "subjectCode": "18CSE353J",
+    "subjectSlot": "B",
+    "teacher": "Dr.Ankit Choudhary",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=iK-6q4nnmtA&list=PLVsrfTSlZ_42OoOyhzWoDgZrL9iineZxQ",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Data Clustering",
+    "subjectCode": "18CSE355T",
+    "subjectSlot": "B",
+    "teacher": "Dr.Lucky K.",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=vmIkSCiZpWY",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Traditional Media",
+    "subjectCode": "18CSE458T",
+    "subjectSlot": "B",
+    "teacher": "Dr.Gopesh.Nayak",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link":"https://www.youtube.com/@traditionalmedia4759",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Fibre Optics",
+    "subjectCode": "18CSE354T",
+    "subjectSlot": "B",
+    "teacher": "Dr.Kapil Vastav",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=BmgdG7tiquc&list=PLAPKGqvQGg6o8SJVVeZ3zdqaj37vdwR9j",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Digital Watermarking",
+    "subjectCode": "18CSE357T",
+    "subjectSlot": "B",
+    "teacher": "Dr.Vivek Kaushik",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link":"https://www.youtube.com/watch?v=O2RwWHWHQlM",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Information Theroy and Coding",
+    "subjectCode": "18CSE360T",
+    "subjectSlot": "D",
+    "teacher": "Dr.Jatin Bansal",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=yNnMJUBZd2w&list=PLV8vIYTIdSnaigcBvSa_S1NVdHhJHz9a4",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Electric Vechile and Mobility",
+    "subjectCode": "18CSE352T",
+    "subjectSlot": "D",
+    "teacher": "Dr.Ravi singh",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link":"https://www.youtube.com/watch?v=UgtjRob5qMg&list=PLyqSpQzTE6M9spod-UH7Q69wQ3uRm5thr",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  },
+  {
+    "subjectName": "Neuromorphic Engineering",
+    "subjectCode": "18CSE451T",
+    "subjectSlot": "D",
+    "teacher": "Dr.Sandeep Dhakad",
+    "category": "Professional Elective",
+    "type": "Theory",
+    "link": "https://www.youtube.com/watch?v=C2PYrPIPhQY",
+    "link2":"https://meet.google.com/uth-zqdr-pzo"
+  }
+]

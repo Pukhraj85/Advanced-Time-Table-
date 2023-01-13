@@ -1,0 +1,97 @@
+[
+  [
+    {
+      "slot": "8:00 - 9:00",
+      "subjectSlot": "A"
+    },
+    {
+      "slot": "9:00 - 10:00",
+      "subjectSlot": "F"
+    },
+    {
+      "slot": "10:00 - 11:00",
+      "subjectSlot": "G"
+    },
+    {
+      "slot": "11:00 - 12:00",
+      "subjectSlot": "P11-P12"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:00",
+      "subjectSlot": "P27-P28"
+    },
+    {
+      "slot": "10:00 - 11:00",
+      "subjectSlot": "B"
+    },
+    {
+      "slot": "11:00 - 12:00",
+      "subjectSlot": "G"
+    },
+    {
+      "slot": "2:00 - 3:00",
+      "subjectSlot": "a"
+    }
+  ],
+  [
+    {
+      "slot": "8:00 - 9:00",
+      "subjectSlot": "C"
+    },
+    {
+      "slot": "9:00 - 10:00",
+      "subjectSlot": "A"
+    },
+    {
+      "slot": "10:00 - 11:00",
+      "subjectSlot": "D"
+    },
+    {
+      "slot": "11:00 - 12:00",
+      "subjectSlot": "B"
+    },
+
+    {
+      "slot": "2:00 - 3:00",
+      "subjectSlot": "P49-P50"
+    }
+  ],
+  [
+    {
+      "slot": "9:00 - 10:00",
+      "subjectSlot": "D"
+    },
+    {
+      "slot": "10:00 - 11:00",
+      "subjectSlot": "B"
+    },
+    {
+      "slot": "11:00 - 12:00",
+      "subjectSlot": "C"
+    }
+  ],
+  [
+    {
+      "slot": "8:00 - 9:00",
+      "subjectSlot": "E"
+    },
+    {
+      "slot": "9:00 - 10:00",
+      "subjectSlot": "C"
+    },
+    {
+      "slot": "10:00 - 11:00",
+      "subjectSlot": "F"
+    },
+    {
+      "slot": "11:00 - 12:00",
+      "subjectSlot": "d"
+    },
+    {
+      "slot": "2:00 - 3:00",
+      "subjectSlot": "P31-P32"
+    }
+  ]
+]
